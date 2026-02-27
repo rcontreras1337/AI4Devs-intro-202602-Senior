@@ -1,3 +1,20 @@
+
+<p align="center">
+  <h1 align="center">🔄 Reverse String App 🔄</h1>
+</p>
+
+<p align="center">
+  <a href="https://rcontreras1337.github.io/AI4Devs-intro-202602-Senior/template/index.html">
+    <img src="https://img.shields.io/badge/🚀_VER_DEMO_EN_VIVO-4CAF50?style=for-the-badge&logoColor=white" alt="Demo en Vivo"/>
+  </a>
+</p>
+
+<p align="center">
+  👉 <strong><a href="https://rcontreras1337.github.io/AI4Devs-intro-202602-Senior/template/index.html">https://rcontreras1337.github.io/AI4Devs-intro-202602-Senior/template/index.html</a></strong> 👈
+</p>
+
+---
+
 # Reverse string | EN
 
 Create a **web page with JavaScript logic that reverses the order of a string**.
